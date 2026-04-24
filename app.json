@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "My DailyTrack",
+    "slug": "my-dailytrack-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#6C63FF"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {}
+  }
+}
